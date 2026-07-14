@@ -1,4 +1,4 @@
-# Cybersecurity Portfolio — Andreea Rotaru
+# Cybersecurity Portfolio — Andreea Iani
 
 Hands-on cybersecurity projects covering **defensive security, offensive security, and risk management**, produced during the [GoIT Cybersecurity Specialist](https://goit.global) program (320 hours, 2024–2025) and my bachelor's thesis.
 
